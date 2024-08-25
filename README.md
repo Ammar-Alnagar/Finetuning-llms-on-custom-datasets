@@ -13,3 +13,9 @@ Pre-trained Models: Utilize a range of pre-trained LLMs as starting points, savi
 Flexible Training Pipelines: Configurable pipelines to handle various fine-tuning scenarios, including supervised and unsupervised learning.
 Performance Metrics: Tools for evaluating model performance during and after fine-tuning, ensuring high-quality results.
 Comprehensive Documentation: Detailed guides and examples to help you set up, customize, and optimize your fine-tuning process.
+
+
+change the model name and the desired dataset in the desired file and then run the script.
+
+
+
